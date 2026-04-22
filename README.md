@@ -1,3 +1,8 @@
+# SQL Week 2 Assignment
+**Name:** TEDDY RUTTO
+**Date:** 4/22/2026
+**Database:** city_hospital/nairobi_academy
+
 This repository contains a series of SQL scripts designed to demonstrate core data manipulation and analysis techniques. Each script focuses on a specific pillar of SQL functionality, ranging from basic data cleaning to advanced analytical window functions.
 
 **Project Structure**
