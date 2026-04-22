@@ -1,6 +1,7 @@
 This repository contains a series of SQL scripts designed to demonstrate core data manipulation and analysis techniques. Each script focuses on a specific pillar of SQL functionality, ranging from basic data cleaning to advanced analytical window functions.
 
 **Project Structure**
+
 The repository is organized into the following modules:
 
 Part 1: String Functions Focuses on cleaning and transforming text data. This includes tasks like changing case (UPPER/LOWER), trimming whitespace, concatenating columns, and using substrings to extract specific patterns.
